@@ -11,6 +11,7 @@
 class Node {
         int x;
         int y;
+        int z
         double distance = Integer.MAX_VALUE;
         Node parent = null;
         boolean visited;
